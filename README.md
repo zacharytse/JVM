@@ -114,7 +114,7 @@ public class HelloJVM {
 随后你会看到有一个 out 文件生成，里面有一个HelloJVM.class 文件。
 
 
-<img src="https://gitee.com/zacharytse/picture/blob/master/outClass.png" width = "450" height = "300" />
+<img src="https://github.com/ArosyW/picture/blob/master/outClass.png" width = "450" height = "300" />
 没错，这就是IDEA帮你编译后的文件，java虚拟机最终执行的就是这个.class文件，我们先来打开看看它里面是啥玩意。<br/>
 <br/>
 打开方式：<br/>
